@@ -27,5 +27,11 @@ URL do curso -> [Linux Onboarding - Localizando Arquivos e Conteúdos](https://c
 ### 02 - Formatando a Saída da Tela
 * Mostrar o conteúdo com `more`,`less`, `tail` ou `head`.
 
+## 02 - Procurando Arquivos no Sistema
+
+### 01 - Procurando Arquivos no Sistema
+* Localizar arquivos com `find`.
+* Mostrar dados de arquivos com `ls -lh`.
+
 ## :black_nib: Licença
 [Unlicense](https://unlicense.org)
