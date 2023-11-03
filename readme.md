@@ -33,5 +33,16 @@ URL do curso -> [Linux Onboarding - Localizando Arquivos e Conteúdos](https://c
 * Localizar arquivos com `find`.
 * Mostrar dados de arquivos com `ls -lh`.
 
+## 03 - Redirecionamentos e Pipe
+
+### 01 - Redirecionando a Saída Padrão para um Arquivo
+* Redirecionar a saída com `>`.
+* Realizar sequência de comandos com `|`.
+* Ordenar o output com `sort`.
+
+### 02 - Filtrando as Informações com o cut
+* Mostrar informações da saída de comandos com `wc`.
+* Utilizar separador de strings na saída com `cut`.
+
 ## :black_nib: Licença
 [Unlicense](https://unlicense.org)
