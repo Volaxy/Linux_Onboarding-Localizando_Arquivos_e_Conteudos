@@ -44,5 +44,14 @@ URL do curso -> [Linux Onboarding - Localizando Arquivos e Conteúdos](https://c
 * Mostrar informações da saída de comandos com `wc`.
 * Utilizar separador de strings na saída com `cut`.
 
+## 04 - Utilizando as Regex
+
+### 01 - Regex com o grep
+* Passar uma expressão regular como críterio de busca com `grep -E "?"` ou `egrep "?"`.
+    * `^`;
+    * `$`;
+    * `|`;
+    * `.`;
+
 ## :black_nib: Licença
 [Unlicense](https://unlicense.org)
