@@ -53,5 +53,13 @@ URL do curso -> [Linux Onboarding - Localizando Arquivos e Conteúdos](https://c
     * `|`;
     * `.`;
 
+## 05 - Editores de Texto
+
+### 01 - Nano e Vi
+* Carregar o editor de texto ***Nano*** com `nano FILE`.
+* Entrar no editor ***VI*** com `vi`.
+    * Executar comandos.
+    * Salvar alterações.
+
 ## :black_nib: Licença
 [Unlicense](https://unlicense.org)
